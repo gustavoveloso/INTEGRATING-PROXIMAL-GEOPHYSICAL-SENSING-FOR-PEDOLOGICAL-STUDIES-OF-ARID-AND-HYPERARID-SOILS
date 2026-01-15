@@ -13,3 +13,5 @@ These analytical data were used to characterize diagnostic horizons, constrain i
 Detailed morphological descriptions of soil horizons were used to align field and laboratory datasets and to ensure consistency in the vertical organization of the database.
 All variables were harmonized at the profile scale to represent the influence of lithology, climate, and geomorphology on soil development. The compiled dataset was analyzed using the R software
 environment through descriptive statistics, mean comparison tests, multivariate analyses, and Spearman correlation to explore pedogeophysical–pedological relationships across Aridisol profiles.
+
+
